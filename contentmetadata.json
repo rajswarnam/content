@@ -1,30 +1,30 @@
 {
     "metadata": [
         {
-            "offerid": "",
+            "offerID": "",
             "product": "CCD",
             "subProduct": "95",
             "description": "THis is the good offer",
-            "contentMetadata": {
+            "contentMetaData": {
                 "image": "https://api.creativecommons.engineering/v1/thumbs/7c32622f-66de-468c-ae9e-bedac19a95fe",
                 "sellingPoints": {
                     "sellingpoint1": "my first selling point",
                     "sellingpoint2": "my second selling point",
-                    "sellingpoing3": "my third selling point"
+                    "sellingpoint3": "my third selling point"
                 }
             }
         },
         {
-            "offerid": "",
+            "offerID": "",
             "product": "CCD",
             "subProduct": "95",
             "description": "THis is the good offer",
-            "contentMetadata": {
+            "contentMetaData": {
                 "image": "https://api.creativecommons.engineering/v1/thumbs/7c32622f-66de-468c-ae9e-bedac19a95fe",
                 "sellingPoints": {
                     "sellingpoint1": "my first selling point",
                     "sellingpoint2": "my second selling point",
-                    "sellingpoing3": "my third selling point"
+                    "sellingpoint3": "my third selling point"
                 }
             }
         }
